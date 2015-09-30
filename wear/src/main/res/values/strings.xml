@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Wear Test</string>
+    <string name="app_name">Fortune Teller</string>
     <string name="hello_round">Shake for your destiny</string>
     <string name="hello_square">Hello Square World!</string>
 </resources>
